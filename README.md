@@ -5,6 +5,11 @@
 
 <p align="center">
   <span>Your best support for Business Cats</span>
+  
+</p>
+<p align="center">
+  <span>only chromium supports😿</span>
+  
 </p>
 
 <p align="center">
