@@ -13,7 +13,6 @@
   <a href="https://github.com/shizukushq/tamagotchi?tab=readme-ov-file#build" target="_blank">Build</a>
   &bull;
   <a href="https://github.com/shizukushq/tamagotchi?tab=readme-ov-file#features" target="_blank">Features</a>
-  &bull;
 </p>
 
 <p align="center">
