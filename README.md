@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="/" target="_blank">Install</a>
+  <a href="https://github.com/shizukushq/tamagotchi?tab=readme-ov-file#install" target="_blank">Install</a>
   &bull;
-  <a href="/" target="_blank">Build</a>
+  <a href="https://github.com/shizukushq/tamagotchi?tab=readme-ov-file#build" target="_blank">Build</a>
   &bull;
-  <a href="/" target="_blank">Features</a>
+  <a href="https://github.com/shizukushq/tamagotchi?tab=readme-ov-file#build" target="_blank">Features</a>
   &bull;
 </p>
 
