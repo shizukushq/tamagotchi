@@ -26,8 +26,7 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/1ddab8c8-d7a4-4b30-9671-13b9b2864ad3
-
+https://github.com/user-attachments/assets/6b74777d-b978-4151-bcf7-94ca7a0d62e3
 
 ## Install
 
