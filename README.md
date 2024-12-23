@@ -59,3 +59,4 @@ bun run build
 - 😸 Feed all cats in one click 
 - 😻 Heal all cats without loupe
 - 😼 Send message for everyone
+- 😽 And much more in the future...
