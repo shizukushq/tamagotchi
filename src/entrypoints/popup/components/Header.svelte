@@ -1,5 +1,4 @@
 <script lang="ts">
-  // import {} from ;
 </script>
 
 <main>

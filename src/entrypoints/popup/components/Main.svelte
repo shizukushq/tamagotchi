@@ -50,7 +50,6 @@
       >
         <Header />
         <Emoji />
-        <!-- <h1>{balance.value}</h1> -->
         <ButtonsMain />
       </main>
     {/if}
